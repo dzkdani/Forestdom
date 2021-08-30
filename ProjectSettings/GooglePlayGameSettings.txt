@@ -1,0 +1,9 @@
+lastUpgrade=01012
+proj.pluginVersion=0.10.12
+proj.AppId=578401959724
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e578401959724%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.siakew.guessanimal%3c%2fstring%3e%0d%0a++%3c%21--achievement+Thank+Your+For+Playing+the+Game--%3e%0d%0a++%3cstring+name%3d%22achievement_thank_your_for_playing_the_game%22+translatable%3d%22false%22%3eCgkIrP7F2-oQEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--achievement+Read+100+Animals+Name--%3e%0d%0a++%3cstring+name%3d%22achievement_read_100_animals_name%22+translatable%3d%22false%22%3eCgkIrP7F2-oQEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--achievement+Hear+100+Animals+Sound--%3e%0d%0a++%3cstring+name%3d%22achievement_hear_100_animals_sound%22+translatable%3d%22false%22%3eCgkIrP7F2-oQEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--achievement+First+1000+Score--%3e%0d%0a++%3cstring+name%3d%22achievement_first_1000_score%22+translatable%3d%22false%22%3eCgkIrP7F2-oQEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--leaderboard+Highscore--%3e%0d%0a++%3cstring+name%3d%22leaderboard_highscore%22+translatable%3d%22false%22%3eCgkIrP7F2-oQEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+android.SetupDone=true
+and.BundleId=com.siakew.guessanimal
